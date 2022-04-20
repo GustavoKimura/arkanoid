@@ -1,0 +1,24 @@
+{
+  "name": "arkanoid",
+  "version": "1.0.0",
+  "description": "An Arkanoid Game created with JavaScript (using TypeScript) Canvas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoKimura/arkanoid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoKimura/arkanoid/issues"
+  },
+  "homepage": "https://github.com/GustavoKimura/arkanoid#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "parcel": "^2.4.1"
+  }
+}
